@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a front-end developer currently working on a logistics app, I’m  currently learning MEAN stack web development. I love to take up new challenges and learn new skills.
+I’m a Software Engineer  currently learning MERN stack to become a Full-stack web developer. I love to take up new challenges and learn new skills.
 
 
 ## 🌐 Socials:
